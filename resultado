@@ -1,0 +1,35 @@
+versión de Gretl 2025b
+Sesión actual: 2025-07-17 02:55
+
+# --- Modelo de LIA (PBI) ---
+
+Variables principales — Gretl 2025b — Modelo LIA (PBI)
+-------------------------------------------------------
+
+1) Tipo_Cambio
+  - Media: 3.6709
+  - Mínimo: 3.5630
+  - Máximo: 3.8780
+  - Desv. Típica: 0.11281
+  - Asimetría: 0.56047
+
+2) Tasa_Interes
+  - Media: 5.2639
+  - Mínimo: 4.5000
+  - Máximo: 6.2500
+  - Desv. Típica: 0.71450
+  - Asimetría: 0.19654
+
+3) PBI
+  - Media: 116.47
+  - Mínimo: 112.40
+  - Máximo: 120.30
+  - Desv. Típica: 2.6462
+  - Asimetría: 0.12167
+
+4) Gasto_Publico
+  - Media: 7051.7
+  - Mínimo: 5420.0
+  - Máximo: 8400.0
+  - Desv. Típica: 961.65
+  - Asimetría: −0.10224
