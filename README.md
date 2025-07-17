@@ -1,4 +1,4 @@
-# -LIA-Regresi-n-estructural-del-PBI
+#LIA-Regresion-estructural-del-PBI
 README — Modelo LIA (PBI) — Gretl 2025b
 
 DESCRIPCIÓN:
